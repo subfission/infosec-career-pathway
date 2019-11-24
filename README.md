@@ -20,7 +20,9 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [(ISC)² Security Congress](https://congress.isc2.org/events/-isc-security-congress-2019/event-summary-f1be4e92a1b54d92acdb1b8007fe91cf.aspx) | Orlando, FL |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/)         | Jersey City, NJ           |
 | [Norcon](http://norcon.info/)                                                         | Chico, CA                 |
+| [OptivCon](https://www.optiv.com/our-story/events/)                                   | Mutliple, CA                 |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx)                               | Austin, TX                |
+| [PFIC](https://pfic-conference.com/)                                                  | Park City. Utah           |
 | [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD |
 | [Secure 360](https://secure360.org/secure360-twin-cities/)                            | Prior Lake, MN            |
 | [Shakacon](https://www.shakacon.org/)                                                 | Honolulu, HI              |
@@ -34,11 +36,13 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [vBSDcon](https://www.vbsdcon.com/)                                                   | Reston, Virginia          |
             
 
+### Job Fairs
+
+
 ### Technology Focused Conferences with Security Component
 | **Name**                             | **Last Known Location** |
 | ------------------------------------ | ----------------------- |
-| [SCALE](https://socallinuxexpo.org/) | Pasadena, CA            |
-| [RustConf](http://rustconf.com/)     | Portland, OR            | 
+| [TechExpo Top Secret](https://techexpousa.com/event/te-111319/?ref=infosec-conferences.com) | Tysons Corner, VA            |
 
 
 # Career Advancing Certifications for Technologists
