@@ -37,12 +37,15 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
             
 
 ### Job Fairs
-
+| **Name**                             | **Last Known Location** |
+| ------------------------------------ | ----------------------- |
+| [TechExpo Top Secret](https://techexpousa.com/event/te-111319/?ref=infosec-conferences.com) | Tysons Corner, VA            |
 
 ### Technology Focused Conferences with Security Component
 | **Name**                             | **Last Known Location** |
 | ------------------------------------ | ----------------------- |
-| [TechExpo Top Secret](https://techexpousa.com/event/te-111319/?ref=infosec-conferences.com) | Tysons Corner, VA            |
+| [SCALE](https://socallinuxexpo.org/) | Pasadena, CA            |
+| [RustConf](http://rustconf.com/)     | Portland, OR            | 
 
 
 # Career Advancing Certifications for Technologists
