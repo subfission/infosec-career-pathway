@@ -1,7 +1,7 @@
 # Information Security Conferences
 ## U.S. based IT security conferences
 
-This list is derived from [infosec-conferences](https://infosec-conferences.com/), [usenix](https://www.usenix.org/conferences), and other sources.
+This list is derived from [infosec-conferences](https://infosec-conferences.com/country/united-states/), [usenix](https://www.usenix.org/conferences), and other sources.
 
 | **Name**                                                                              | **Last Known Location**   | 
 | ------------------------------------------------------------------------------------- | ------------------------- | 
