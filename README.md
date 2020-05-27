@@ -23,7 +23,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Norcon](http://norcon.info/)                                                         | Chico, CA                 |
 | [OptivCon](https://www.optiv.com/our-story/events/)                                   | Mutliple, CA              |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx)                               | Austin, TX                |
-| [PFIC](https://pfic-conference.com/)                                                  | Park City. Utah           |
+| [PFIC](https://pfic-conference.com/)                                                  | Park City, Utah           |
 | [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD |
 | [Secure 360](https://secure360.org/secure360-twin-cities/)                            | Prior Lake, MN            |
 | [Shakacon](https://www.shakacon.org/)                                                 | Honolulu, HI              |
