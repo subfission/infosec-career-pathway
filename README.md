@@ -15,12 +15,13 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [DakotaCon](https://dakotacon.org)                                                    | Madison, SD               |
 | [Def Con](https://www.defcon.org/)                                                    | Las Vegas, NV             |
 | [Enigma](https://www.usenix.org/conference/enigma2019/)                               | Burlingame, CA            |
+| [HackerHalted](https://www.hackerhalted.com/)                                         | Atlanta, GA               |
 | [Infiltrate](https://infiltratecon.com/)                                              | Miami Beach, Fl           |
 | [Interop19](https://www.interop.com/)                                                 | Las Vegas, NV             |
 | [(ISC)² Security Congress](https://congress.isc2.org/events/-isc-security-congress-2019/event-summary-f1be4e92a1b54d92acdb1b8007fe91cf.aspx) | Orlando, FL |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/)         | Jersey City, NJ           |
 | [Norcon](http://norcon.info/)                                                         | Chico, CA                 |
-| [OptivCon](https://www.optiv.com/our-story/events/)                                   | Mutliple, CA                 |
+| [OptivCon](https://www.optiv.com/our-story/events/)                                   | Mutliple, CA              |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx)                               | Austin, TX                |
 | [PFIC](https://pfic-conference.com/)                                                  | Park City. Utah           |
 | [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD |
