@@ -21,6 +21,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [(ISC)² Security Congress](https://congress.isc2.org/events/-isc-security-congress-2019/event-summary-f1be4e92a1b54d92acdb1b8007fe91cf.aspx) | Orlando, FL |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/)         | Jersey City, NJ           |
 | [Norcon](http://norcon.info/)                                                         | Chico, CA                 |
+| [Ohio InfoSec Forum Annual Conference](https://www.ohioinfosec.org/)                  | Fairborn, OH              |
 | [OptivCon](https://www.optiv.com/our-story/events/)                                   | Mutliple, CA              |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx)                               | Austin, TX                |
 | [OSDFCon](https://www.osdfcon.org/)                                                   | Virtual                   |
