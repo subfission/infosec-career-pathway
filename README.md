@@ -48,7 +48,8 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | **Name**                             | **Last Known Location** |
 | ------------------------------------ | ----------------------- |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, CA            |
-| [RustConf](http://rustconf.com/)     | Portland, OR            | 
+| [RustConf](http://rustconf.com/)     | Portland, OR            |
+| [DevOpsDays](https://devopsdays.org/)| Many                    |
 
 
 # Career Advancing Certifications for Technologists
