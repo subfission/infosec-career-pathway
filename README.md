@@ -11,7 +11,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Black Hat USA](https://www.blackhat.com/us-19/)                                      | Las Vegas, NV             |
 | [BSides Las Vegas](https://www.bsideslv.org/)                                         | Las Vegas, NV             |
 | [CactusCon](https://www.cactuscon.com/)                                               | Mesa, AZ                  |
-| [Cybersecurity Summit](https://cybersecuritysummit.org/)                              | Minneapolis, MN           |
+| [Cyber Security Summit](https://cybersecuritysummit.org/)                             | Minneapolis, MN           |
 | [DakotaCon](https://dakotacon.org)                                                    | Madison, SD               |
 | [Def Con](https://www.defcon.org/)                                                    | Las Vegas, NV             |
 | [Enigma](https://www.usenix.org/conference/enigma2019/)                               | Burlingame, CA            |
