@@ -54,7 +54,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 
 
 # Career Advancing Certifications for Technologists
-## Common industry certifications for establishing skill baselines.
+*Common industry certifications for establishing skill baselines.*
 
 | Certification     | Detail                                                                                                                                     | 
 |-------------------|--------------------------------------------------------------------------------------------------------------------------------------------| 
