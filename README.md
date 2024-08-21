@@ -17,8 +17,9 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [Enigma](https://www.usenix.org/conference/enigma2019/)                               | Burlingame, CA            |
 | [HackerHalted](https://www.hackerhalted.com/)                                         | Atlanta, GA               |
 | [Infiltrate](https://infiltratecon.com/)                                              | Miami Beach, Fl           |
+| [InfoSec World](https://www.infosecworldusa.com/)                                     | Lake Buena Vista, Fl      |
 | [Interop19](https://www.interop.com/)                                                 | Las Vegas, NV             |
-| [(ISC)² Security Congress](https://congress.isc2.org/events/-isc-security-congress-2019/event-summary-f1be4e92a1b54d92acdb1b8007fe91cf.aspx) | Orlando, FL |
+| [ISC2 Security Congress](https://web.cvent.com/event/a5c15481-492d-4efa-bd79-a521ab73b699/websitePage:26a84091-6c86-411e-9e16-6613ec20a219) | Las Vegas, NV |
 | [Metricon](http://www.securitymetrics.org/blog/2019/01/28/metricon-x-agenda/)         | Jersey City, NJ           |
 | [Norcon](http://norcon.info/)                                                         | Chico, CA                 |
 | [Ohio InfoSec Forum Annual Conference](https://www.ohioinfosec.org/)                  | Fairborn, OH              |
