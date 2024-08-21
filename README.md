@@ -32,7 +32,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [ShmooCon](http://shmoocon.org/)                                                      | California                |
 | [SIRAcon (Society of Information Risk Analysts' Annual conference)](https://societyinforisk.org/) | Cincinnati, Ohio |
 | [SyScan360](https://www.syscan360.org/)                                               | Seattle, WA               |
-| [THOTCON]([https://www.syscan360.org](https://www.thotcon.org/)                       | Chicago, IL               |
+| [THOTCON](https://www.thotcon.org/)                                                   | Chicago, IL               |
 | [USENIX Enigma](https://www.usenix.org/conference/enigma2019)                         | Burlingame, CA            |
 | [USENIX WOOT](https://www.usenix.org/conference/woot19)                               | Santa Clara, CA           |
 | [USENIX HotSec](https://www.usenix.org/conference/hotsec19/)                          | Santa Clara, CA           |
