@@ -1,52 +1,49 @@
 # Information Security Conferences
-## U.S. based IT security conferences
+### U.S. based IT security conferences
 
-This list is derived from [infosec-conferences](https://infosec-conferences.com/country/united-states/), [usenix](https://www.usenix.org/conferences), OSINT, and other sources.
-
-| **Name**                                                                                                           | **Last Known Location**   | 
-|--------------------------------------------------------------------------------------------------------------------|---------------------------| 
-| [ACM CCS](https://www.sigsac.org/ccs.html)                                                                         | Salt Lake City, Utah      | 
-| [Black Hat USA](https://www.blackhat.com/upcoming.html#usa)                                                        | Las Vegas, NV             |
-| [BSides Las Vegas](https://www.bsideslv.org/)                                                                      | Las Vegas, NV             |
-| [CackalackyCon](https://cackalackycon.org/)                                                                        | Durham, NC                |
-| [CactusCon](https://www.cactuscon.com/)                                                                            | Mesa, AZ                  |
-| [Cyber Security & Cloud Congress](https://www.cybersecuritycloudexpo.com/northamerica/)                            | Santa Clara, CA           |
-| [Cyber Security Summit](https://cybersecuritysummit.org/)                                                          | Minneapolis, MN           |
-| [DakotaCon](https://dakotacon.org)                                                                                 | Madison, SD               |
-| [DEF CON](https://www.defcon.org/)                                                                                 | Las Vegas, NV             |
-| [HackerHalted](https://www.hackerhalted.com/)                                                                      | Atlanta, GA               |
-| [InfoSec World](https://www.infosecworldusa.com/)                                                                  | Lake Buena Vista, Fl      |
-| [ISC2 Security Congress](https://cvent.me/2kmK92)                                                                  | Las Vegas, NV             |
-| [OptivCon](https://www.optiv.com/our-story/events/)                                                                | Mutliple, CA              |
-| [OT.SEC.CON](https://www.otseccon.com/)                                                                            | Houston, TX               |
-| [OWASP Global AppSec DC](https://dc.globalappsec.org/)                                                             | Washington, D.C.          |
-| [OWASP Global AppSec US](https://sf.globalappsec.org/)                                                             | San Francisco, CA         |
-| [PFIC](https://pfic-conference.com/)                                                                               | Park City, Utah           |
-| [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us) | National Harbor, MD       |
-| [Secure 360](https://umsafoundation.org/education/secure360/)                                                      | Prior Lake, MN            |
-| [Shakacon](https://www.shakacon.org/)                                                                              | Honolulu, HI              |
-| [ShmooCon](http://shmoocon.org/)                                                                                   | California                |
-| [SiRAcon](https://societyinforisk.org/)                                                                            | Boston, MA                |
-| [SyScan360](https://www.syscan360.org/)                                                                            | Seattle, WA               |
-| [THOTCON](https://www.thotcon.org/)                                                                                | Chicago, IL               |
-| [USENIX Security Symposium](https://www.usenix.org/conferences/byname/108)                                         | Seattle, WA               |
-| [USENIX WOOT Conference on Offensive Technologies](https://www.usenix.org/conferences/byname/202)                  | Seattle, WA               |
-
-### Job Fairs
-| **Name**                                                                                                           | **Last Known Location**   |
-| -------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [TechExpo Top Secret](https://techexpousa.com/event/te-111319/?ref=infosec-conferences.com)                        | Tysons Corner, VA         |
+| **Name**                                                                                                                             | **Last Known Location**   | 
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------| 
+| [ACM CCS](https://www.sigsac.org/ccs.html)                                                                                           | Salt Lake City, Utah      | 
+| [Black Hat USA](https://www.blackhat.com/upcoming.html#usa)                                                                          | Las Vegas, NV             |
+| [Blue Team Con](https://blueteamcon.com/)                                                                                            | Chicago, IL               |
+| [BSides Las Vegas](https://www.bsideslv.org/)                                                                                        | Las Vegas, NV             |
+| [CackalackyCon](https://cackalackycon.org/)                                                                                          | Durham, NC                |
+| [CactusCon](https://www.cactuscon.com/)                                                                                              | Mesa, AZ                  |
+| [Cyber Security & Cloud Congress](https://www.cybersecuritycloudexpo.com/northamerica/)                                              | Santa Clara, CA           |
+| [Cyber Security Summit](https://cybersecuritysummit.org/)                                                                            | Minneapolis, MN           |
+| [DakotaCon](https://dakotacon.org)                                                                                                   | Madison, SD               |
+| [DEF CON](https://www.defcon.org/)                                                                                                   | Las Vegas, NV             |
+| [HackerHalted](https://www.hackerhalted.com/)                                                                                        | Atlanta, GA               |
+| [InfoSec World](https://www.infosecworldusa.com/)                                                                                    | Lake Buena Vista, Fl      |
+| [ISC2 Security Congress](https://cvent.me/2kmK92)                                                                                    | Las Vegas, NV             |
+| [OptivCon](https://www.optiv.com/our-story/events/)                                                                                  | Mutliple, CA              |
+| [OT.SEC.CON](https://www.otseccon.com/)                                                                                              | Houston, TX               |
+| [OWASP Global AppSec DC](https://dc.globalappsec.org/)                                                                               | Washington, D.C.          |
+| [OWASP Global AppSec US](https://sf.globalappsec.org/)                                                                               | San Francisco, CA         |
+| [PFIC](https://pfic-conference.com/)                                                                                                 | Park City, Utah           |
+| [Gartner Security & Risk Management Summit](https://www.gartner.com/en/conferences/na/security-risk-management-us)                   | National Harbor, MD       |
+| [Secure 360](https://umsafoundation.org/education/secure360/)                                                                        | Prior Lake, MN            |
+| [Shakacon](https://www.shakacon.org/)                                                                                                | Honolulu, HI              |
+| [ShmooCon](http://shmoocon.org/)                                                                                                     | California                |
+| [SiRAcon](https://societyinforisk.org/)                                                                                              | Boston, MA                |
+| [SyScan360](https://www.syscan360.org/)                                                                                              | Seattle, WA               |
+| [THOTCON](https://www.thotcon.org/)                                                                                                  | Chicago, IL               |
+| [USENIX Security Symposium](https://www.usenix.org/conferences/byname/108)                                                           | Seattle, WA               |
+| [USENIX WOOT Conference on Offensive Technologies](https://www.usenix.org/conferences/byname/202)                                    | Seattle, WA               |
 
 ### Technology Focused Conferences with Security Component
-| **Name**                                                                                                           | **Last Known Location**   |
-| -------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [OSN](https://www.opensourcenorth.com)                                                                             | Saint Paul, MN            |
-| [SCALE](https://socallinuxexpo.org/)                                                                               | Pasadena, CA              |
-| [RustConf](http://rustconf.com/)                                                                                   | Portland, OR              |
-| [DevOpsDays](https://devopsdays.org/)                                                                              | Many                      |
-| [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)                                | Salt Lake City, UT        |
+| **Name**                                                                                                                             | **Last Known Location**   |
+| -------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| [OSN](https://www.opensourcenorth.com)                                                                                               | Saint Paul, MN            |
+| [SCALE](https://socallinuxexpo.org/)                                                                                                 | Pasadena, CA              |
+| [RustConf](http://rustconf.com/)                                                                                                     | Portland, OR              |
+| [DevOpsDays](https://devopsdays.org/)                                                                                                | Many                      |
+| [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)                                                  | Salt Lake City, UT        |
 
-# Career Advancing Certifications for Technologists
+---
+
+## Career Advancement
+### Certifications for Technologists
 *Common industry certifications for establishing skill baselines.*
 
 | Certification     | Detail                                                                                                                                       | 
@@ -83,3 +80,13 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | MCP               | [Microsoft Certified Professional, Microsoft](http://www.microsoft.com/learning/en-us/certification-overview.aspx)                           | 
 | CompTIA Security+ | [CompTIA Security+, CompTIA, Inc.](http://certification.comptia.org/getCertified/certifications/security.aspx)                               | 
 | CompTIA Network+  | [CompTIA Network+, CompTIA, Inc.](http://certification.comptia.org/getCertified/certifications/network.aspx)                                 | 
+
+### Job Fairs
+| **Name**                                                                                                                             | **Last Known Location**   |
+| -------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| [TechExpo Top Secret](https://techexpousa.com/event/te-111319/)                                                                      | Tysons Corner, VA         |
+
+---
+
+## Sources
+This list is derived from [infosec-conferences](https://infosec-conferences.com/country/united-states/), [usenix](https://www.usenix.org/conferences), OSINT, and other sources.
