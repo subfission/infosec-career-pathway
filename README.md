@@ -81,6 +81,8 @@
 | CompTIA Security+ | [CompTIA Security+, CompTIA, Inc.](http://certification.comptia.org/getCertified/certifications/security.aspx)                               | 
 | CompTIA Network+  | [CompTIA Network+, CompTIA, Inc.](http://certification.comptia.org/getCertified/certifications/network.aspx)                                 | 
 
+_For a more comprehensive list of certificaitons, see: [Security Certification Roadmap by Paul Jerimy](https://pauljerimy.com/security-certification-roadmap/)._
+
 ### Job Fairs
 | **Name**                                                                                                                             | **Last Known Location**   |
 | -------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
