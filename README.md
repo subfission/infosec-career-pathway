@@ -10,6 +10,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [AppSec USA](https://appsecusa.org/)                                                  | Washington, D.C.          |
 | [Black Hat USA](https://www.blackhat.com/us-19/)                                      | Las Vegas, NV             |
 | [BSides Las Vegas](https://www.bsideslv.org/)                                         | Las Vegas, NV             |
+| [CackalackyCon](https://cackalackycon.org/)                                           | Durham, NC                |
 | [CactusCon](https://www.cactuscon.com/)                                               | Mesa, AZ                  |
 | [Cyber Security Summit](https://cybersecuritysummit.org/)                             | Minneapolis, MN           |
 | [DakotaCon](https://dakotacon.org)                                                    | Madison, SD               |
