@@ -10,6 +10,7 @@ This list is derived from [infosec-conferences](https://infosec-conferences.com/
 | [BSides Las Vegas](https://www.bsideslv.org/)                                                                      | Las Vegas, NV             |
 | [CackalackyCon](https://cackalackycon.org/)                                                                        | Durham, NC                |
 | [CactusCon](https://www.cactuscon.com/)                                                                            | Mesa, AZ                  |
+| [Cyber Security & Cloud Congress](https://www.cybersecuritycloudexpo.com/northamerica/)                            | Santa Clara, CA           |
 | [Cyber Security Summit](https://cybersecuritysummit.org/)                                                          | Minneapolis, MN           |
 | [DakotaCon](https://dakotacon.org)                                                                                 | Madison, SD               |
 | [DEF CON](https://www.defcon.org/)                                                                                 | Las Vegas, NV             |
