@@ -64,6 +64,9 @@
 1. **[RSTCON](https://rstcon.org/)** – 9/13/2024 - 9/15/2024 – *Yearly* – Savannah, GA  
     RSTCON (reset-con) is an annual technical security and hacking conference hosted in Savannah, GA. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy, and manufacturing industries, as well as the sensors, systems, and architectures they rely on. RSTCON is home to the curious and those passionate about software and hardware security. Whether you come as an attendee, speaker, or sponsor, we encourage you to enjoy, engage, and connect.
 
+1. **[SAINTCON](https://saintcon.org/)** – 10/22/2024 - 10/25/2024 – *Yearly* – Provo, UT  
+    SAINTCON, originally known as the UtahSAINT, is the annual cyber-security conference presented by the Utah Security Advisory and Incident Network Team (UtahSAINT). This event is primarily focused on cyber-security topics and is designed for IT and Cyber-Security Professionals. This includes individuals working in various cyber-security roles, such as security analysts, penetration testers, security engineers, incident responders, and security managers, among others.  
+ 
 1. **[Secure 360](https://umsafoundation.org/education/secure360/)** – 5/14/2025 - 5/15/2025 – *Yearly* – Prior Lake, MN  
     Secure360 focuses on business, IT, and cybersecurity professionals in the Midwest, offering workshops, panels, and talks on risk management, cybersecurity, governance, and compliance.
 
