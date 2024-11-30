@@ -40,6 +40,9 @@
 1. **[Hope](https://hope.net/)** – 7/12/2024 - 7/14/2024 – *Yearly* – New York City, NY  
     H.O.P.E. (Hackers On Planet Earth) is a renowned hacker conference that has been held since 1994. The event attracts thousands from around the world, offering three days of talks, workshops, and activities, both in-person in Queens, NYC, and online. Topics range from lockpicking to malware analysis, with notable past speakers such as Steve Wozniak and Edward Snowden. The event also features films, live performances, and radio broadcasts. It's a highly creative event, driven by volunteers and innovation.
 
+1. **[HushCon](https://hushcon.com/)** – 12/13/2024 - 12/14/2024 – *Yearly* – Seattle, WA  
+    HushCon is an invite-only conference focused on bringing top security professionals together to discuss interesting subjects within the infosec community. Access to the conference requires that a current member proivde a guest ticket link.
+
 1. **[InfoSec World](https://www.infosecworldusa.com/)** – 10/21/2024 - 10/23/2024 – *Yearly* – Lake Buena Vista, FL  
     InfoSec World is one of the premier conferences for IT security professionals, providing a mix of strategic insights and practical technical solutions for protecting and defending networks and data.
 

@@ -1,7 +1,7 @@
 # Information Security Pathway
 Navigate to one of the reference pages below...
 
-* [Conferences](./Conferences.md) | [Certifications](./Certifications.md)
+┤ [Certifications](./Certifications.md) │ [Conferences](./Conferences.md) │ [Conference Parties](https://conferenceparties.com/) ├
 
 ---
 
